@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+'Ingrese el usuario'
+5
+1
+7
+usuario
+4
+1
+23
+'Ingrese la contraseña'
+5
+1
+10
+contrasena
+7
+1
+1
+47
+(usuario = 'roberson') and (contrasena ='0000')
+4
+1
+19
+'Acceso
+ permitido'
+13
+4
+1
+19
+'Acceso
+ rechazado'
+13
+1
