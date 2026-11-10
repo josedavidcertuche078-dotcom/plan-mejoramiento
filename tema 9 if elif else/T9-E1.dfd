@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+27
+'Ingrese una nota de 0 a 5'
+5
+1
+4
+nota
+7
+0
+1
+6
+nota<3
+7
+0
+1
+6
+nota<4
+7
+0
+1
+8
+nota<4.6
+4
+1
+21
+nota, ' ', 'Superior'
+13
+4
+1
+18
+nota, ' ',  'Alto'
+13
+13
+4
+1
+20
+nota,  ' ', 'Básico'
+13
+13
+4
+1
+17
+nota, ' ', 'Bajo'
+13
+1
