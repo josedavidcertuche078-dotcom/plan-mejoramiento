@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'ingrese el nombre del evento'
+5
+1
+13
+nombre_evento
+4
+1
+33
+'ingrese el precio de la entrada'
+5
+1
+14
+precio_entrada
+4
+1
+43
+'ingrese la cantidad de entradas compradas'
+5
+1
+17
+cantidad_comprada
+6
+1
+11
+costo_total
+34
+precio_entrada * cantidad_comprada
+4
+1
+37
+'el costo total es:', '', costo_total
+1
