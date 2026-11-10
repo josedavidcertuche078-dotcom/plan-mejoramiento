@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+'Ingrese su edad'
+5
+1
+4
+edad
+6
+1
+8
+es_mayor
+10
+edad >= 18
+4
+1
+63
+'¿Es mayor o igual a 18 años?', es_mayor, edad, ' ', 'es mayor'
+1
