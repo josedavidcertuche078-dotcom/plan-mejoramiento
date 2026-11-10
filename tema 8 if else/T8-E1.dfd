@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'Ingrese una nota entre 0 y 5'
+5
+1
+4
+nota
+7
+0
+1
+7
+nota>=3
+4
+1
+44
+'La nota es:', ' ', nota, ' ', 'No aprobado'
+13
+4
+1
+41
+'La nota es:', ' ', nota, ' ', 'Aprobado'
+13
+1
